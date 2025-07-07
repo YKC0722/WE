@@ -8,8 +8,10 @@
 ### Running the example
 
 1. Clone or download the code.
-2. Open the workspace of interest with the filename `<ICLED>.code-workspace` in Visual Studio code.
-3. **Build** and **Upload** the code from the PlatformIO tab as shown in the Figure below.
-4. After successful upload, click on **Monitor** in the PlatformIO extension tab to view the debug logs in the serial terminal.
-
-![PlatformIO_BUILD](../documentation/assets/ICLEDFeatherWing_PlatformIO.jpg)
+   4 files needed:
+    - https://github.com/WurthElektronik/FeatherWings/tree/9638c557716c19723ba02ea941eff854357695f3/Common
+    - https://github.com/WurthElektronik/FeatherWings/tree/9638c557716c19723ba02ea941eff854357695f3/ProteusIIIFeatherWing
+    - https://github.com/WurthElektronik/FeatherWings/tree/9638c557716c19723ba02ea941eff854357695f3/SensorFeatherWing
+    - https://github.com/YKC0722/WE/tree/2a6259caf22b93a8690578c0512f5a2af39383c2/ICLEDFeatherWing
+4. Open the workspace of interest with the filename `<ICLED>.code-workspace` in Visual Studio code.
+5. **Build** and **Upload** the code from the PlatformIO tab.
